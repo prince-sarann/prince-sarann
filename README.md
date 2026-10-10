@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Prince Kumar Saran 👋
 
-<!--
-**prince-sarann/prince-sarann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about programming, problem-solving, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• About Me
+
+-  Currently learning Data Structures & Algorithms (DSA)
+-  Exploring C, C++, and Python
+-  Interested in Cybersecurity
+-  Exploring Artificial Intelligence and       Data Analytics
+- Building projects to improve my programming skills
+
+• Skills & Technologies
+
+- Languages: C, C++, Python
+- Core Concepts: Data Structures & Algorithms
+- Interests: Cybersecurity, AI, Data Analytics 
+
+• Featured Projects
+
+Projects will be added here as I build them.
+
+• Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/prince-saran-bb1437441
+
+• Always learning, building, and improving!
