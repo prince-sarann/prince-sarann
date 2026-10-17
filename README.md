@@ -4,23 +4,41 @@
 
 <p align="center">
   <strong>Computer Science Student · Aspiring Software Developer</strong><br/>
-  Learning by building, one project at a time.
+  Building practical projects while strengthening my fundamentals.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince-saran-bb1437441">LinkedIn</a> ·
-  <a href="https://github.com/prince-sarann?tab=repositories">Projects</a>
+  <a href="https://github.com/prince-sarann?tab=repositories">Projects</a> ·
+  <a href="https://www.linkedin.com/in/prince-saran-bb1437441">LinkedIn</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student currently in **Year II, Semester I**.
-- 🧠 Practising **Data Structures & Algorithms (DSA)** and problem-solving.
-- 💻 Learning and building with **C, C++, Python, and web technologies**.
-- 🔐 Interested in **cybersecurity**, with curiosity about AI and data analytics.
-- 🛠️ I enjoy turning ideas into practical projects and improving them step by step.
+- 🎓 Computer Science student — Year II, Semester I.
+- 🧠 Practising Data Structures & Algorithms and problem-solving.
+- 💻 Learning C, C++, Python, JavaScript, TypeScript, and React.
+- 🔐 Exploring cybersecurity through safe, simulated learning projects.
+- 🛠️ I learn by building, documenting, and improving projects step by step.
+
+## 🚀 Featured Projects
+
+### [Sync-Board — Real-Time Collaborative Whiteboard](https://github.com/prince-sarann/Sync-Board)
+A browser-based whiteboard for classrooms and study groups, with room sharing, collaborative drawing, multi-page boards, participant controls, export, and browser-based voice features.
+
+**Tech:** React · TypeScript · Vite · Express · Socket.IO · WebRTC
+
+[View source and setup instructions →](https://github.com/prince-sarann/Sync-Board)
+
+### [Security Incident Correlation System](https://github.com/prince-sarann/Security-Incident-Correlation-Syste)
+A C++17 educational simulator that groups simulated security events by source IP, applies explainable correlation rules, and prioritizes suspicious activity.
+
+**Concepts:** Queues · Hash maps · Sets · Priority queues · Stacks · Binary search trees
+
+[View source and run instructions →](https://github.com/prince-sarann/Security-Incident-Correlation-Syste)
+
+> Both projects are learning projects. See each repository's README for setup instructions, implementation details, and limitations.
 
 ## 🧰 Technologies I'm Learning
 
@@ -34,22 +52,12 @@
   <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge" alt="Data Structures and Algorithms"/>
 </p>
 
-## 🚀 Projects
-
-### [Sync-Board](https://github.com/prince-sarann/Sync-Board)
-A real-time collaborative whiteboard for classes and study groups. Includes room codes, multi-page boards, live drawing, participant controls, and voice-chat functionality.
-
-**Built with:** React, TypeScript, Vite, Express, Socket.IO
-
-### Security Incident Correlation System
-A planned learning project focused on correlating simulated security events to identify related activity using data structures and algorithms. **In planning / development — not yet presented as a completed project.**
-
 ## 🎯 Current Focus
 
 - Strengthening DSA fundamentals and algorithmic thinking.
-- Writing cleaner, more understandable code.
-- Building useful projects and documenting how they work.
-- Learning cybersecurity concepts through safe, simulated examples.
+- Writing clean, maintainable, and well-documented code.
+- Adding meaningful tests and clear setup instructions to projects.
+- Learning software engineering and cybersecurity fundamentals through hands-on practice.
 
 ## 🤝 Connect
 
@@ -58,4 +66,4 @@ A planned learning project focused on correlating simulated security events to i
 
 ---
 
-<p align="center"><i>Consistent learning. Practical building. Steady progress. 🌱</i></p>
+<p align="center"><i>Learn consistently. Build practically. Improve continuously. 🌱</i></p>
